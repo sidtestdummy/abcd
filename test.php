@@ -2,7 +2,7 @@
 <?php  
 
 
-echo "hiiii";
+echo "hello";
 
 
 ?>
